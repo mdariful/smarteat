@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.1\11ea7eeda00b1bb92accba250ee7c8740bdebc19\firebase-client-jvm-2.5.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="11ea7eeda00b1bb92accba250ee7c8740bdebc19">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.1_b95c3e40bb0455d68e9480ecdaf9cc5f2eeea4e6\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_a215a5a729483e218818e3a0340b01fc441b1065\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="89f3cf75d38142a2c79b475bda67e6b1276bce14">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3a4d64e817992fa0afcf10b83c0721e7c31d77e\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_b1d12bd78a7afb02d472a8c31d1d84e66edf6d9f\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_51b030d112eea6feec4642c7fe4ca455bb58d7d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ariful\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_e3b031042655d4ae825f0d1c03e1c4706e115294\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_88565e49925ffb7322d373d8f51c94c38f04807a\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_07fa787184d8c82b03fd07bff583710e41a6593b\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_3b6646891ec8fbdad414fba49983a1341e058fe2\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.1\8c94ae916de454be497782505e3e6fd437a28b95\firebase-client-android-2.5.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c94ae916de454be497782505e3e6fd437a28b95">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.1_17ac7a8a84b22e3c1368ca28e0d12de36f3428f8\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_d7b32aa2cb28237e545a54545ac94d8ea07c4bae\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c7fadd42b8a6bf0f20c54bb55ccb74211716f9cb">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d5f1853072de75deb9daed15337849b16c5a4fdd\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_0be1baed408f3dfb2e1c04e0cf1b2e0ed1616752\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_e7b02f313c6833a98462ea26878c799e5676cd3b\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_1d693371c5692f09b24e296ea6aee8cfa4cee5b8\classes.dex" />
+    </item>
+    <item
+        jar="D:\I miei dati\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_ecece35f6c226fc74a1367f02d5829b2e4b7b577\classes.dex" />
+    </item>
+
+</items>
