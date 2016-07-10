@@ -19,7 +19,7 @@
         jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="89f3cf75d38142a2c79b475bda67e6b1276bce14">
+        sha1="13b0cef883dd45847c8b1a696cd43e604ab0eed3">
         <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3a4d64e817992fa0afcf10b83c0721e7c31d77e\classes.dex" />
     </item>
     <item
@@ -82,7 +82,7 @@
         jar="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c7fadd42b8a6bf0f20c54bb55ccb74211716f9cb">
+        sha1="9f86a33560270b131201fe3661ecd52497fb9194">
         <dex dex="D:\I miei dati\Desktop\SmartEat\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d5f1853072de75deb9daed15337849b16c5a4fdd\classes.dex" />
     </item>
     <item
